@@ -199,17 +199,17 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Login</title>
-    <meta name="title" content="PenguinMod - Login" />
-    <meta property="og:title" content="PenguinMod - Login" />
-    <meta property="twitter:title" content="PenguinMod - Login" />
+    <title>JetPortal - Login</title>
+    <meta name="title" content="JetPortal - Login" />
+    <meta property="og:title" content="JetPortal - Login" />
+    <meta property="twitter:title" content="JetPortal - Login" />
     <meta
         name="description"
-        content="Login for PenguinMod to start sharing your projects!"
+        content="Login for JetPortal to start sharing your projects!"
     />
     <meta
         property="twitter:description"
-        content="Login for PenguinMod to start sharing your projects!"
+        content="Login for JetPortal to start sharing your projects!"
     />
     <meta property="og:url" content="https://penguinmod.com/signin" />
     <meta property="twitter:url" content="https://penguinmod.com/signin" />
@@ -226,7 +226,7 @@
     {#if !apiOnlineChecking && apiOnlineResponding}
         <main>
             <img src="/penguins/signin.svg" alt="Profiles" />
-            <h1 style="margin-block:4px">PenguinMod</h1>
+            <h1 style="margin-block:4px">JetPortal</h1>
             <p>
                 <LocalizedText
                     text="Login with your personal account"

@@ -3,7 +3,7 @@
 <!-- Try not to touch the ```host or ```collab sections, they are direct user links -->
 <!-- You should translate ```warning sections though. -->
 ```host
-Zespół PenguinMod
+Zespół JetPortal
 ```
 
 
@@ -41,7 +41,7 @@ Weź udział, jeśli chcesz zdobyć jedną z tych odznak:
 Sposób działania naszego PenguinJamu:
 
 ### Ujawnimy temat
-Musisz stworzyć projekt PenguinMod na podstawie dostarczonego tematu.
+Musisz stworzyć projekt JetPortal na podstawie dostarczonego tematu.
 
 Możesz zinterpretować motyw w dowolny sposób i zaimplementować go w opublikowanej grze. **Powinno stanowić dużą część projektu Twojej gry.**
 
@@ -50,7 +50,7 @@ Temat zostanie ujawniony ***25 kwietnia o 14:00 (czasu wschodniego)***.
 ***Projekty, które nie pasują do tego tematu, nie otrzymają żadnych nagród.***
 
 ### Prześlij nam projekt
-Musisz przesłać swój projekt związany z motywem do PenguinMod **używając tagu #pjamspring25 w tytule lub uwagach.**
+Musisz przesłać swój projekt związany z motywem do JetPortal **używając tagu #pjamspring25 w tytule lub uwagach.**
 
 Pamiętaj, aby przesłać swoje projekty do ***4 maja do godziny 14:00 (czasu wschodniego)***! Nie przesyłaj ich później.
 
@@ -63,7 +63,7 @@ Integracja: Jak dobrze gra implementuje temat?
 *Uwaga: powyższe kryteria nie są ostateczne; jeśli masz coś specjalnego do zaoferowania, możemy przyznać Ci wyższy wynik.*
 
 ### Będziemy rozdawać nagrody
-Wybierzemy 5 najlepszych gier, które zostaną naszymi zwycięzcami, a oni otrzymają odznaki widoczne na ich profilu PenguinMod!
+Wybierzemy 5 najlepszych gier, które zostaną naszymi zwycięzcami, a oni otrzymają odznaki widoczne na ich profilu JetPortal!
 
 Odznaki będą nadawane z biegiem czasu. **Nie wywieraj presji na zespół, aby jak najszybciej przyznał Ci odznakę. Pamiętaj, że możemy być i będziemy zajęci innymi rzeczami.**
 

@@ -1,7 +1,7 @@
 # All The Mods
 
 ```host
-PenguinMod, TurboWarp, Warpdrive, MistWarp, NitroBolt, Scratch Everywhere!
+JetPortal, TurboWarp, Warpdrive, MistWarp, NitroBolt, Scratch Everywhere!
 ```
 ```collab
 TurboWarp, Warpdrive, MistWarp, NitroBolt, Scratch Everywhere!
@@ -20,9 +20,9 @@ TurboWarp, Warpdrive, MistWarp, NitroBolt, Scratch Everywhere!
 </div>
 
 # What is this event?
-Many different Scratch mods (featuring PenguinMod, TurboWarp, and more) have all come together to start a game jam!
+Many different Scratch mods (featuring JetPortal, TurboWarp, and more) have all come together to start a game jam!
 
-This is a *shared event*, meaning you **will not be submitting on the PenguinMod website itself!**
+This is a *shared event*, meaning you **will not be submitting on the JetPortal website itself!**
 
 The official All The Mods Game Jam page can be found here: [https://itch.io/jam/all-the-mods-game-jam](https://itch.io/jam/all-the-mods-game-jam)
 
@@ -38,7 +38,7 @@ See the [itch.io page](https://itch.io/jam/all-the-mods-game-jam) for exact timi
 ## How do I submit my game?
 You need to submit your theme-related game to the [itch.io page](https://itch.io/jam/all-the-mods-game-jam) **as a packaged project!**
 
-You should use the [PenguinMod Packager](https://studio.penguinmod.com/PenguinMod-Packager/) and create a **Plain HTML** package of your game. 
+You should use the [JetPortal Packager](https://studio.penguinmod.com/PenguinMod-Packager/) and create a **Plain HTML** package of your game. 
 
 Make sure to submit your games by ***June 15th at 10:00 AM (Mountain Time)***! Do not submit them any later than that.
 
@@ -65,7 +65,7 @@ You do not have to receive a prize if you don't want to. The prize will be hande
 How the All The Mods Game Jam will work is:
 
 ## We will reveal a theme
-You need to create a PenguinMod project based on a theme.
+You need to create a JetPortal project based on a theme.
 
 You can make a game that relates to the theme we give you in any way. **It should be a big part of your game's design.**
 

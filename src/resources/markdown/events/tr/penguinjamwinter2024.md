@@ -53,12 +53,12 @@ Bu rozetlerden birini kazanmaya çalışmak istersen katılabilirsin!:
 PenguinJam'imiz nasıl çalışacak?
 
 ### Bir tema açıklayacağız
-Bir temaya dayalı bir PenguinMod projesi oluşturman gerekir.
+Bir temaya dayalı bir JetPortal projesi oluşturman gerekir.
 
 Sana verdiğimiz temayla herhangi bir şekilde ilişkili bir oyun yapabilirsin. **Oyununun tasarımının büyük bir parçası verdiğimiz tema olmalıdır.**
 
 ### Bir proje gönder
-Temaya dayalı projeni PenguinMod’a **#penguinjam2 etiketini başlıkta veya notlarda kullanarak** göndermelisin.
+Temaya dayalı projeni JetPortal’a **#penguinjam2 etiketini başlıkta veya notlarda kullanarak** göndermelisin.
 
 Projeni ***24 Aralık 22:00 (Türkiye Saati)*** tarihinden önce yüklemelisin! Bu tarihten sonra yükleme.
 

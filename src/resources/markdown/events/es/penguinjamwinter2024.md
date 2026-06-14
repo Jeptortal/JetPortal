@@ -53,14 +53,14 @@ Participa si quieres ganar cualquiera de estas insignias:
 Como PenguinJam funciona:
 
 ### Revelaremos el tema
-Tienes que crear un proyecto PenguinMod basado en un tema.
+Tienes que crear un proyecto JetPortal basado en un tema.
 
 Puedes hacer un juego que se relacione con el tema de cualquier manera. **Debe ser una parte importante del diseño de tu juego.**
 
 El tema será revelado el ***16 de diciembre a las 2:00 PM (Hora del Este)***.
 
 ### Sube un proyecto
-Tienes que subir tu proyecto temático a PenguinMod **usando la etiqueta #penguinjam2 en el título o en las notas.**
+Tienes que subir tu proyecto temático a JetPortal **usando la etiqueta #penguinjam2 en el título o en las notas.**
 
 ¡Asegúrate de subir tus proyectos antes del ***24 de diciembre a las 2:00 PM (Hora del Este)***! No los subas más tarde.
 

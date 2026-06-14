@@ -273,17 +273,17 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Report</title>
-    <meta name="title" content="PenguinMod - Report" />
-    <meta property="og:title" content="PenguinMod - Report" />
-    <meta property="twitter:title" content="PenguinMod - Report" />
+    <title>JetPortal - Report</title>
+    <meta name="title" content="JetPortal - Report" />
+    <meta property="og:title" content="JetPortal - Report" />
+    <meta property="twitter:title" content="JetPortal - Report" />
     <meta
         name="description"
-        content="Report a specific project or user on PenguinMod."
+        content="Report a specific project or user on JetPortal."
     />
     <meta
         property="twitter:description"
-        content="Report a specific project or user on PenguinMod."
+        content="Report a specific project or user on JetPortal."
     />
     <meta property="og:url" content="https://penguinmod.com/report" />
     <meta property="twitter:url" content="https://penguinmod.com/report" />

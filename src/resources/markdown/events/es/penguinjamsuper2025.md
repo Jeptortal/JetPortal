@@ -44,14 +44,14 @@ Participa si quieres ganar cualquiera de estas insignias:
 Como nuestra PenguinJam funciona:
 
 ### Revelaremos el tema
-Tienes que crear un proyecto PenguinMod basado en un tema.
+Tienes que crear un proyecto JetPortal basado en un tema.
 
 Puedes hacer un juego que se relacione con el tema de cualquier manera. **Debe ser una parte importante del diseño de tu juego.**
 
 ***Los proyectos que no se ajusten a este tema no recibirán ninguna recompensa.***
 
 ### Sube un proyecto
-Tienes que subir tu proyecto temático a PenguinMod **usando las etiquetas #pjamhero o #pjamvillain en el título o en las notas.**
+Tienes que subir tu proyecto temático a JetPortal **usando las etiquetas #pjamhero o #pjamvillain en el título o en las notas.**
 
 ¡Asegúrate de subir tus proyectos antes del ***22 de junio a las 12 PM EST***! No los subas más tarde.
 

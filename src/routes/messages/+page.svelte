@@ -277,10 +277,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Messages</title>
-    <meta name="title" content="PenguinMod - Messages" />
-    <meta property="og:title" content="PenguinMod - Messages" />
-    <meta property="twitter:title" content="PenguinMod - Messages" />
+    <title>JetPortal - Messages</title>
+    <meta name="title" content="JetPortal - Messages" />
+    <meta property="og:title" content="JetPortal - Messages" />
+    <meta property="twitter:title" content="JetPortal - Messages" />
     <meta name="description" content="See your messages or alerts." />
     <meta
         property="twitter:description"

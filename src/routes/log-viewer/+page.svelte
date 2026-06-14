@@ -161,12 +161,12 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Log Viewer</title>
-    <meta name="title" content="PenguinMod - Log Viewer" />
-    <meta property="og:title" content="PenguinMod - Log Viewer" />
-    <meta property="twitter:title" content="PenguinMod - Log Viewer">
-    <meta name="description" content="A utility for viewing the contents of a PenguinMod log file, and browsing the code that made those logs.">
-    <meta property="twitter:description" content="A utility for viewing the contents of a PenguinMod log file, and browsing the code that made those logs.">
+    <title>JetPortal - Log Viewer</title>
+    <meta name="title" content="JetPortal - Log Viewer" />
+    <meta property="og:title" content="JetPortal - Log Viewer" />
+    <meta property="twitter:title" content="JetPortal - Log Viewer">
+    <meta name="description" content="A utility for viewing the contents of a JetPortal log file, and browsing the code that made those logs.">
+    <meta property="twitter:description" content="A utility for viewing the contents of a JetPortal log file, and browsing the code that made those logs.">
     <meta property="og:url" content="https://penguinmod.com/log-viewer">
     <meta property="twitter:url" content="https://penguinmod.com/log-viewer">
 </svelte:head>

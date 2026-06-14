@@ -122,23 +122,23 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Change Password With OAuth</title>
-    <meta name="title" content="PenguinMod - Change Password With OAuth" />
+    <title>JetPortal - Change Password With OAuth</title>
+    <meta name="title" content="JetPortal - Change Password With OAuth" />
     <meta
         property="og:title"
-        content="PenguinMod - Change Password With OAuth"
+        content="JetPortal - Change Password With OAuth"
     />
     <meta
         property="twitter:title"
-        content="PenguinMod - Change Password With OAuth"
+        content="JetPortal - Change Password With OAuth"
     />
     <meta
         name="description"
-        content="Change your password with OAuth for PenguinMod to access your account with a password or to just change it"
+        content="Change your password with OAuth for JetPortal to access your account with a password or to just change it"
     />
     <meta
         property="twitter:description"
-        content="Change your password with OAuth for PenguinMod to access your account with a password or to just change it"
+        content="Change your password with OAuth for JetPortal to access your account with a password or to just change it"
     />
     <meta
         property="og:url"
@@ -159,7 +159,7 @@
         <div class="profile-section">
             <img src="/account/profile_sheet.png" alt="Profiles" />
         </div>
-        <h1 style="margin-block:4px">PenguinMod</h1>
+        <h1 style="margin-block:4px">JetPortal</h1>
         <p>
             <LocalizedText
                 text="Change/Set Your Password Using OAuth"

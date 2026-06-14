@@ -20,8 +20,8 @@ import PenguinJamSuper2025En from "./en/penguinjamsuper2025.md?raw";
 import PenguinJamSuper2025Ja from "./ja/penguinjamsuper2025.md?raw";
 import PenguinJamSuper2025Es from "./es/penguinjamsuper2025.md?raw";
 import PenguinJamSuper2025Tr from "./tr/penguinjamsuper2025.md?raw";
-// PenguinModThirdAnniversary
-import PenguinModThirdAnniversaryEn from "./en/penguinmodthirdanniversary.md?raw";
+// JetPortalThirdAnniversary
+import JetPortalThirdAnniversaryEn from "./en/penguinmodthirdanniversary.md?raw";
 // PenguinJamNewYears2025
 import PenguinJamNewYears2025En from "./en/penguinjamnewyears2025.md?raw";
 import PenguinJamNewYears2025Cs from "./cs/penguinjamnewyears2025.md?raw";
@@ -66,7 +66,7 @@ export default {
         "tr": PenguinJamSuper2025Tr,
     },
     "penguinmodthirdanniversary": {
-        "en": PenguinModThirdAnniversaryEn,
+        "en": JetPortalThirdAnniversaryEn,
     },
     "penguinjamnewyears2025": {
         "en": PenguinJamNewYears2025En,

@@ -1096,14 +1096,14 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Admin Panel</title>
+    <title>JetPortal - Admin Panel</title>
     <meta
         name="robots"
         content="noindex,nofollow,noarchive,nosnippet,noimageindex,nocache,none"
     />
-    <meta name="title" content="PenguinMod - Home" />
-    <meta property="og:title" content="PenguinMod - Home" />
-    <meta property="twitter:title" content="PenguinMod - Home" />
+    <meta name="title" content="JetPortal - Home" />
+    <meta property="og:title" content="JetPortal - Home" />
+    <meta property="twitter:title" content="JetPortal - Home" />
     <meta
         name="description"
         content="The area where featured projects and community stuff & info is shown."
@@ -1485,7 +1485,7 @@
                     target="_blank"
                     href={"/guidelines/moderation"}
                 >
-                    PenguinMod Moderation Expectations
+                    JetPortal Moderation Expectations
                 </a>
             </p>
 
@@ -1626,7 +1626,7 @@
                         target="_blank"
                         href={"/guidelines/moderation"}
                     >
-                        PenguinMod Moderation Expectations
+                        JetPortal Moderation Expectations
                     </a>
                 </p>
                 <button
@@ -1648,7 +1648,7 @@
                             <br />
                             View the
                             <a target="_blank" href={"/guidelines/moderation"}>
-                                PenguinMod Moderation Expectations
+                                JetPortal Moderation Expectations
                             </a> for more info.
                         </i>
                     </p>
@@ -1682,7 +1682,7 @@
                             <br />
                             View the
                             <a target="_blank" href={"/guidelines/moderation"}>
-                                PenguinMod Moderation Expectations
+                                JetPortal Moderation Expectations
                             </a> for more info.
                         </i>
                     </p>
@@ -1690,7 +1690,7 @@
                     <input
                         type="text"
                         size="50"
-                        placeholder="PenguinMod Username..."
+                        placeholder="JetPortal Username..."
                         bind:value={messageReplyInfo.target}
                     />
                     <p>Type message:</p>
@@ -1784,7 +1784,7 @@
                 <input
                     type="text"
                     size="50"
-                    placeholder="PenguinMod username..."
+                    placeholder="JetPortal username..."
                     bind:value={userSelectionData.username}
                 />
                 <br />
@@ -1949,7 +1949,7 @@
                     <input
                         type="text"
                         size="50"
-                        placeholder="PenguinMod username..."
+                        placeholder="JetPortal username..."
                         on:change={() => {
                             userBadgeInfo.areBadgesLoaded = false;
                         }}
@@ -1997,7 +1997,7 @@
                     <p>Type usernames:</p>
                     <textarea
                         style="width: 80%;height:120px"
-                        placeholder="Paste PenguinMod usernames, seperated by new lines. Excess spaces will be trimmed."
+                        placeholder="Paste JetPortal usernames, seperated by new lines. Excess spaces will be trimmed."
                         bind:value={userBadgeInfo.targetUsernamesBox}
                     />
 

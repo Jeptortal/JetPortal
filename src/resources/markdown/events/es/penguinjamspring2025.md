@@ -3,7 +3,7 @@
 <!-- Try not to touch the ```host or ```collab sections, they are direct user links -->
 <!-- You should translate ```warning sections though. -->
 ```host
-PenguinMod Team
+JetPortal Team
 ```
 
 ¡Bienvenido a otra PenguinJam! Nos alegra tenerte de vuelta.
@@ -40,7 +40,7 @@ Participa si quieres intentar ganar una de estas insignias:
 Así funciona nuestra PenguinJam:
 
 ### Nosotros revelaremos el tema:
-Y tú tienes que crear un proyecto PenguinMod basado en el tema proporcionado.
+Y tú tienes que crear un proyecto JetPortal basado en el tema proporcionado.
 
 Puedes interpretar el tema de cualquier manera e implementarlo en tu juego publicado. **Debe ser una parte importante del diseño de tu juego.**
 
@@ -49,7 +49,7 @@ El tema será desvelado el ***25 de abril a las 2:00 PM (Hora del Este)***.
 ***Los proyectos que no se ajusten a este tema no recibirán ninguna recompensa.***
 
 ### Presentar un proyecto
-Tienes que subir tu proyecto relacionado con el tema a PenguinMod **utilizando la etiqueta #pjamspring25 en el título o en las notas.**
+Tienes que subir tu proyecto relacionado con el tema a JetPortal **utilizando la etiqueta #pjamspring25 en el título o en las notas.**
 
 ¡Asegúrate de subir tus proyectos antes del ***4 de mayo a las 2:00 PM (Hora del Este)***! No los subas después de esa fecha.
 

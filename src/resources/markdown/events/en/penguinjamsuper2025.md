@@ -3,7 +3,7 @@
 ## June 12 @ 12 PM EST - June 22 @ 12 PM EST
 
 ```host
-PenguinMod Team
+JetPortal Team
 ```
 
 # The Theme is: Consuming Power!
@@ -48,14 +48,14 @@ Participate if you want to try to earn one of these badges:
 How our PenguinJam will work is:
 
 ### We will reveal a theme.
-You need to create a PenguinMod project based on a provided theme. 
+You need to create a JetPortal project based on a provided theme. 
 
 You can interpret the theme in any way, and implement it into your published game. **It should be a big part of your game's design.**
 
 ***Projects that do not fit this theme will not receive any rewards.***
 
 ### Submit a project
-You need to upload your theme-related project to PenguinMod **using the tag #pjamhero or #pjamvillain in the title or notes.**
+You need to upload your theme-related project to JetPortal **using the tag #pjamhero or #pjamvillain in the title or notes.**
 
 Make sure to upload your projects by ***June 22nd at 12:00 PM Eastern Standard Time***! Do not upload them any later than that.
 
@@ -74,7 +74,7 @@ Staff members and developers will go through all of the valid published projects
 
 We will choose the top 5 games in ***each team*** to be our winners, and they will receive badges displayed on the website profile!
 
-Badges will be awarded over time. **Do not pressure the PenguinMod team into giving your badge ASAP. Please acknowledge that we may and will be busy with other things.**
+Badges will be awarded over time. **Do not pressure the JetPortal team into giving your badge ASAP. Please acknowledge that we may and will be busy with other things.**
 
 <img src="https://penguinmod.com/badges/participant.png" width="48"></img>
 Event Participant will be awarded to everyone (or mostly everyone, we likely won’t count low quality projects.)

@@ -327,10 +327,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Home</title>
-    <meta name="title" content="PenguinMod - Home" />
-    <meta property="og:title" content="PenguinMod - Home" />
-    <meta property="twitter:title" content="PenguinMod - Home" />
+    <title>JetPortal - Home</title>
+    <meta name="title" content="JetPortal - Home" />
+    <meta property="og:title" content="JetPortal - Home" />
+    <meta property="twitter:title" content="JetPortal - Home" />
     <meta
         name="description"
         content="The area where featured projects and community stuff & info is shown."
@@ -354,7 +354,7 @@
 
     <Alert
         onlyShowID={"donatee:_3"}
-        text={"PenguinMod is a free-to-use visual coding website. Your support can help us keep the website working!"}
+        text={"JetPortal is a free-to-use visual coding website. Your support can help us keep the website working!"}
         textBreakup={true}
         textColor={"white"}
         hasImage={true}
@@ -428,7 +428,7 @@
             {:else}
                 <img
                     src="/penguins/frontpage.svg"
-                    alt="PenguinMod"
+                    alt="JetPortal"
                     style="margin-right: 8rem;"
                 />
             {/if}
@@ -444,7 +444,7 @@
                 />
                 <p>
                     <LocalizedText
-                        text="PenguinMod is made by English-speaking developers. Expect minor issues and sorry for any translation errors."
+                        text="JetPortal is made by English-speaking developers. Expect minor issues and sorry for any translation errors."
                         key="translation.warning"
                         lang={currentLang}
                     />
@@ -490,7 +490,7 @@
             <img src="/warning.png" draggable="false" alt="Warning" />
             <p>
                 <LocalizedText
-                    text="PenguinMod is made by English-speaking developers. Expect minor issues and sorry for any translation errors."
+                    text="JetPortal is made by English-speaking developers. Expect minor issues and sorry for any translation errors."
                     key="translation.warning"
                     lang={currentLang}
                 />
@@ -501,7 +501,7 @@
     <p style="width: 100%; text-align: center;">
         <i>
             <LocalizedText
-                text="Scratch Note: Please don't mention PenguinMod on Scratch, we have different rules compared to Scratch! 😅"
+                text="Scratch Note: Please don't mention JetPortal on Scratch, we have different rules compared to Scratch! 😅"
                 key="home.scratchnote"
                 lang={currentLang}
             />
@@ -749,7 +749,7 @@
                         </h2>
                         <div style="width:100%">
                             <p>
-                                We've partnered with many different Scratch mods (featuring PenguinMod, TurboWarp, and more)
+                                We've partnered with many different Scratch mods (featuring JetPortal, TurboWarp, and more)
                                 to run a game jam across multiple communities!
                                 <br />
                                 Please see the event page for details on how to participate!
@@ -1126,7 +1126,7 @@
     <div class="footer">
         <p>
             <LocalizedText
-                text="PenguinMod is not affiliated with Scratch, TurboWarp, the Scratch Team, or the Scratch Foundation."
+                text="JetPortal is not affiliated with Scratch, TurboWarp, the Scratch Team, or the Scratch Foundation."
                 key="home.footer.notaffiliated"
                 lang={currentLang}
             />
@@ -1256,7 +1256,7 @@
                         lang={currentLang}
                     />
                 </p>
-                <a href={"/support"}>PenguinMod</a>
+                <a href={"/support"}>JetPortal</a>
                 <a target="_blank" href={LINK.donate.scratch}>Scratch</a>
             </div>
         </div>

@@ -89,10 +89,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Standing</title>
-    <meta name="title" content="PenguinMod - Standing" />
-    <meta property="og:title" content="PenguinMod - Standing" />
-    <meta property="twitter:title" content="PenguinMod - Standing" />
+    <title>JetPortal - Standing</title>
+    <meta name="title" content="JetPortal - Standing" />
+    <meta property="og:title" content="JetPortal - Standing" />
+    <meta property="twitter:title" content="JetPortal - Standing" />
     <meta name="description" content="See your account standing." />
     <meta property="twitter:description" content="See your account standing." />
     <meta property="og:url" content="https://penguinmod.com/standing" />

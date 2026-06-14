@@ -42,12 +42,12 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Support Us</title>
-    <meta name="title"                   content="PenguinMod - Support Us" />
-    <meta property="og:title"            content="PenguinMod - Support Us" />
-    <meta property="twitter:title"       content="PenguinMod - Support Us">
-    <meta name="description"             content="Help support PenguinMod and it's development!">
-    <meta property="twitter:description" content="Help support PenguinMod and it's development!">
+    <title>JetPortal - Support Us</title>
+    <meta name="title"                   content="JetPortal - Support Us" />
+    <meta property="og:title"            content="JetPortal - Support Us" />
+    <meta property="twitter:title"       content="JetPortal - Support Us">
+    <meta name="description"             content="Help support JetPortal and it's development!">
+    <meta property="twitter:description" content="Help support JetPortal and it's development!">
     <meta property="og:url"              content="https://penguinmod.com/support">
     <meta property="twitter:url"         content="https://penguinmod.com/support">
 </svelte:head>
@@ -68,7 +68,7 @@
             </h1>
             <p>
                 <LocalizedText
-                    text="Help PenguinMod pay for our servers, link & more!"
+                    text="Help JetPortal pay for our servers, link & more!"
                     key="donate.description"
                     lang={currentLang}
                 />
@@ -84,7 +84,7 @@
             <div class="section-discussion">
                 <p>
                     <LocalizedText
-                        text="PenguinMod helps people around the world create the games that they want and share the fun stuff they make with the community."
+                        text="JetPortal helps people around the world create the games that they want and share the fun stuff they make with the community."
                         key="donate.message1"
                         lang={currentLang}
                     />
@@ -93,7 +93,7 @@
                     {@html generateMarkdown(`${TranslationHandler.textSafe(
                         "donate.people1",
                         currentLang,
-                        "In the last month, ***$1 new people found PenguinMod*** and we sent our website to ***$2*** returning users."
+                        "In the last month, ***$1 new people found JetPortal*** and we sent our website to ***$2*** returning users."
                     )
                     .replace('$1', (25000).toLocaleString())
                     .replace('$2', (55000).toLocaleString())}`)}
@@ -101,7 +101,7 @@
                     {@html generateMarkdown(`${TranslationHandler.textSafe(
                         "donate.people2",
                         currentLang,
-                        "Some people even use PenguinMod from the **United Kingdom**, **Japan**, **Brazil**, **Russia**, and more."
+                        "Some people even use JetPortal from the **United Kingdom**, **Japan**, **Brazil**, **Russia**, and more."
                     )}`)}
                 </p>
                 <p>
@@ -192,7 +192,7 @@
                 <!-- other stuff -->
                 <p class="small">
                     <LocalizedText
-                        text="PenguinMod is not affiliated with Scratch, TurboWarp, the Scratch Team, or the Scratch Foundation."
+                        text="JetPortal is not affiliated with Scratch, TurboWarp, the Scratch Team, or the Scratch Foundation."
                         key="home.footer.notaffiliated"
                         lang={currentLang}
                     />

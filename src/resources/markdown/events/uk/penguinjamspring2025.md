@@ -3,7 +3,7 @@
 <!-- Try not to touch the ```host or ```collab sections, they are direct user links -->
 <!-- You should translate ```warning sections though. -->
 ```host
-Команда PenguinMod
+Команда JetPortal
 ```
 
 Вітаємо на ще одному PenguinJam-і! Ми раді що ви повернулися.
@@ -40,7 +40,7 @@ PenguinJam - це Game Jam, що починається ***25-го квітня 
 Ось як PenguinJam буде працювати:
 
 ### Ми оголосимо тему
-Вам потрібно буде створити проєкт у PenguinMod на основі теми.
+Вам потрібно буде створити проєкт у JetPortal на основі теми.
 
 Ви можете інтерпретувати тему будь-як, і реалізувати її у своїй грі. **Вона повинна бути великою частиною вашої гри.**
 

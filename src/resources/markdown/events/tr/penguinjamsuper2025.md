@@ -44,14 +44,14 @@ Bu rozetlerden birini kazanmak istiyorsanız katılın:
 PenguenJam'ımız nasıl çalışacak:
 
 ### Bir tema ortaya çıkaracağız.
-Verilen temaya dayalı bir PenguinMod projesi oluşturmanız gerekiyor.
+Verilen temaya dayalı bir JetPortal projesi oluşturmanız gerekiyor.
 
 Temayı herhangi bir şekilde yorumlayabilir ve yayınlanmış oyununuza uygulayabilirsiniz. **Oyununuzun tasarımının büyük bir parçası olmalıdır.**
 
 ***Bu temaya uymayan projeler herhangi bir ödül almayacaktır.***
 
 ### Bir proje gönderin
-Temayla ilgili projenizi başlıkta veya notlarda #pjamhero veya #pjamvillain etiketini kullanarak PenguinMod'a yüklemeniz gerekmektedir.
+Temayla ilgili projenizi başlıkta veya notlarda #pjamhero veya #pjamvillain etiketini kullanarak JetPortal'a yüklemeniz gerekmektedir.
 
 Projelerinizi ***22 Haziran 19:00'e (Türkiye Saati)*** kadar yüklediğinizden emin olun! Bundan daha sonra yüklemeyin.
 
@@ -70,7 +70,7 @@ Personel üyeleri ve geliştiriciler, yayınlanan tüm geçerli projeleri gözde
 
 Kazananlarımız olarak ***her takımdaki*** en iyi 5 oyunu seçeceğiz ve web sitesi profilinde görüntülenen rozetler alacaklar!
 
-Rozetler zaman içinde verilecektir. ***PenguinMod ekibine rozetinizi en kısa sürede vermeleri için baskı yapmayın. Lütfen başka şeylerle meşgul olabileceğimizi ve olacağımızı kabul edin.***
+Rozetler zaman içinde verilecektir. ***JetPortal ekibine rozetinizi en kısa sürede vermeleri için baskı yapmayın. Lütfen başka şeylerle meşgul olabileceğimizi ve olacağımızı kabul edin.***
 
 <img src="https://penguinmod.com/badges/participant.png" width="48"></img>
 Etkinlik Katılımcısı herkese verilecektir (ya da çoğunlukla herkese, muhtemelen düşük kaliteli projeleri saymayacağız).

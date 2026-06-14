@@ -145,7 +145,7 @@
         "My Favorite",
         "My Favorite Things",
         "What I like",
-        "Why I use PenguinMod",
+        "Why I use JetPortal",
         "My Life's Work",
         "What I Do",
         "In my spare time...",
@@ -816,23 +816,23 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - {user ? user : "Profile"}</title>
-    <meta name="title" content="PenguinMod - {user ? user : 'User Profile'}" />
+    <title>JetPortal - {user ? user : "Profile"}</title>
+    <meta name="title" content="JetPortal - {user ? user : 'User Profile'}" />
     <meta
         property="og:title"
-        content="PenguinMod - {user ? user : 'User Profile'}"
+        content="JetPortal - {user ? user : 'User Profile'}"
     />
     <meta
         property="twitter:title"
-        content="PenguinMod - {user ? user : 'User Profile'}"
+        content="JetPortal - {user ? user : 'User Profile'}"
     />
     <meta
         name="description"
-        content="View {user ? user : 'this user'}'s profile on PenguinMod."
+        content="View {user ? user : 'this user'}'s profile on JetPortal."
     />
     <meta
         property="twitter:description"
-        content="View {user ? user : 'this user'}'s profile on PenguinMod."
+        content="View {user ? user : 'this user'}'s profile on JetPortal."
     />
     <meta property="og:url" content="https://penguinmod.com/profile" />
     <meta property="twitter:url" content="https://penguinmod.com/profile" />

@@ -3,7 +3,7 @@
 <!-- Try not to touch the ```host or ```collab sections, they are direct user links -->
 <!-- You should translate ```warning sections though. -->
 ```host
-PenguinMod Team
+JetPortal Team
 ```
 
 PenguinJamへようこそ！またお越しいただきありがとうございます。
@@ -41,7 +41,7 @@ PenguinJamのテーマは **Hidden!**
 PenguinJam の仕組みは次のとおりです。
 
 ### テーマが発表される
-テーマに基づいてPenguinModのプロジェクトを作成する必要があります。
+テーマに基づいてJetPortalのプロジェクトを作成する必要があります。
 
 与えられたテーマに関連するゲームを、どのような形でも構いませんので制作してください。**そのテーマがゲームデザインの重要な部分となるようにしてください。**
 
@@ -50,7 +50,7 @@ PenguinJam の仕組みは次のとおりです。
 ***このテーマに合わないプロジェクトには報酬を受け取れません。***
 
 ### プロジェクトを提出する
-**タイトルまたはメモに #pjamspring25 というタグを使って、**テーマに関連したプロジェクトをPenguinModにアップロードする必要があります。
+**タイトルまたはメモに #pjamspring25 というタグを使って、**テーマに関連したプロジェクトをJetPortalにアップロードする必要があります。
 
 ***5月5日午前4時（日本標準時）***までにプロジェクトをアップロードしてください！それより遅くアップロードしないでください。
 

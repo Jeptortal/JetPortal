@@ -319,7 +319,7 @@
                         message = TranslationHandler.textSafe(
                             "uploading.error.illegalwordsused",
                             currentLang,
-                            "Words or phrases were used that are not allowed in PenguinMod. Please check through your project's details for any inappropriate words or phrases."
+                            "Words or phrases were used that are not allowed in JetPortal. Please check through your project's details for any inappropriate words or phrases."
                         );
                         break;
                     default:
@@ -474,10 +474,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Edit {projectName}</title>
-    <meta name="title"                   content="PenguinMod - Edit" />
-    <meta property="og:title"            content="PenguinMod - Edit" />
-    <meta property="twitter:title"       content="PenguinMod - Edit">
+    <title>JetPortal - Edit {projectName}</title>
+    <meta name="title"                   content="JetPortal - Edit" />
+    <meta property="og:title"            content="JetPortal - Edit" />
+    <meta property="twitter:title"       content="JetPortal - Edit">
     <meta name="description"             content="Edit your project.">
     <meta property="twitter:description" content="Edit your project.">
     <meta property="og:url"              content="https://penguinmod.com/edit">

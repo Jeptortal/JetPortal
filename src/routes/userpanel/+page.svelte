@@ -7,9 +7,9 @@
 
 <svelte:head>
     <title>Redirecting</title>
-    <meta name="title" content="PenguinMod - Home" />
-    <meta property="og:title" content="PenguinMod - Home" />
-    <meta property="twitter:title" content="PenguinMod - Home">
+    <meta name="title" content="JetPortal - Home" />
+    <meta property="og:title" content="JetPortal - Home" />
+    <meta property="twitter:title" content="JetPortal - Home">
     <meta name="description" content="The area where featured projects and community stuff & info is shown.">
     <meta property="twitter:description" content="The area where featured projects and community stuff & info is shown.">
     <meta property="og:url" content="https://penguinmod.com/">

@@ -368,10 +368,10 @@
 </script>
 
 <svelte:head>
-    <title>PenguinMod - Settings</title>
-    <meta name="title" content="PenguinMod - Settings" />
-    <meta property="og:title" content="PenguinMod - Settings" />
-    <meta property="twitter:title" content="PenguinMod - Settings" />
+    <title>JetPortal - Settings</title>
+    <meta name="title" content="JetPortal - Settings" />
+    <meta property="og:title" content="JetPortal - Settings" />
+    <meta property="twitter:title" content="JetPortal - Settings" />
     <meta name="description" content="View your account settings." />
     <meta
         property="twitter:description"

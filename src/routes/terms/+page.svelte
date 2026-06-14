@@ -23,12 +23,12 @@
     </script>
     
     <svelte:head>
-        <title>PenguinMod - Terms of Service</title>
-        <meta name="title" content="PenguinMod - Terms of Service" />
-        <meta property="og:title" content="PenguinMod - Terms of Service" />
-        <meta property="twitter:title" content="PenguinMod - Terms of Service">
-        <meta name="description" content="Terms you must follow if you would like to use PenguinMod.">
-        <meta property="twitter:description" content="Terms you must follow if you would like to use PenguinMod.">
+        <title>JetPortal - Terms of Service</title>
+        <meta name="title" content="JetPortal - Terms of Service" />
+        <meta property="og:title" content="JetPortal - Terms of Service" />
+        <meta property="twitter:title" content="JetPortal - Terms of Service">
+        <meta name="description" content="Terms you must follow if you would like to use JetPortal.">
+        <meta property="twitter:description" content="Terms you must follow if you would like to use JetPortal.">
         <meta property="og:url" content="https://penguinmod.com/terms">
         <meta property="twitter:url" content="https://penguinmod.com/terms">
     </svelte:head>
@@ -63,9 +63,9 @@
             </p>
             <p>
                 A "Service Administrator", "Admin", "Moderator", "Mod" or "Administrator" is a person who can either
-                directly access the server files for PenguinMod,
+                directly access the server files for JetPortal,
                 or a person who can contact the server host that is able to access the server files and server process.
-                "Host" may also refer to the server host of PenguinMod's project sharing.
+                "Host" may also refer to the server host of JetPortal's project sharing.
             </p>
             <p>
                 A "Project Moderator" is a person who has the ability to remove projects or content from those projects,
@@ -77,19 +77,19 @@
 
             <h2>General</h2>
             <p>
-                By using PenguinMod, you agree to the terms outlined below. If you do not agree with these terms, please refrain from
+                By using JetPortal, you agree to the terms outlined below. If you do not agree with these terms, please refrain from
                 using our website.
             </p>
 
-            <h2>Your use of PenguinMod</h2>
+            <h2>Your use of JetPortal</h2>
             <p>
-                When uploading projects or posting content on PenguinMod, your content must abide by the
+                When uploading projects or posting content on JetPortal, your content must abide by the
                 <a href="https://penguinmod.com/guidelines/uploading">Uploading Guidelines</a> and Terms of Service
                 at all times. 
             </p>
             <p>
                 Failure to follow these rules may result in restrictions on publishing projects, updating projects, remixing projects, or editing profile information. 
-                PenguinMod has the right to remove/limit your access to any services we provide if we believe you
+                JetPortal has the right to remove/limit your access to any services we provide if we believe you
                 are violating these guidelines or the Terms of Service.
             </p>
             <p>
@@ -97,16 +97,16 @@
                 <a href="https://penguinmod.com/guidelines/uploading">Uploading Guidelines</a> or the Terms of Service.
             </p>
             <p>
-                Engaging in or encouraging abusive behavior toward PenguinMod systems, such as mass reporting, impersonation,
+                Engaging in or encouraging abusive behavior toward JetPortal systems, such as mass reporting, impersonation,
                 exploiting bugs to cause harm, botting, manipulating statistics like likes, votes, and views,
-                circumventing bans or deletions, or incentivizing others to break PenguinMod's rules, is strictly prohibited.
+                circumventing bans or deletions, or incentivizing others to break JetPortal's rules, is strictly prohibited.
                 <br>
-                Violations may lead to limiting your account's access to certain features, account deletion, or permanent loss of access to PenguinMod's services.
+                Violations may lead to limiting your account's access to certain features, account deletion, or permanent loss of access to JetPortal's services.
             </p>
             <p>
-                Using PenguinMod's services to engage in, promote, or facilitate illegal activities, including but not limited to breaking laws in your country, region, or area, is strictly prohibited.
+                Using JetPortal's services to engage in, promote, or facilitate illegal activities, including but not limited to breaking laws in your country, region, or area, is strictly prohibited.
                 <br>
-                Violations may lead to limiting your account's access to certain features, account deletion, or permanent loss of access to PenguinMod's services.
+                Violations may lead to limiting your account's access to certain features, account deletion, or permanent loss of access to JetPortal's services.
                 <br>
                 Serious offenses may result in your account information being shared with law enforcement authorities.
             </p>
@@ -114,7 +114,7 @@
             <h2>Copyright</h2>
             <p>
                 You may not include copyrighted content in your projects. You are responsible for making sure you have the necessary
-                rights, licenses, or permission for any user-generated content you submit to PenguinMod. You may get your projects, profile info
+                rights, licenses, or permission for any user-generated content you submit to JetPortal. You may get your projects, profile info
                 or posts removed, and or face punishment if you do not properly check whether or not you have permission to include something
                 in your content.
             </p>
@@ -125,51 +125,51 @@
 
             <h2>Advertisements</h2>
             <p>
-                We may use Google AdSense to display advertisements on PenguinMod. These ads are provided by Google
-                and are subject to Google's policies. PenguinMod is not responsible for the content of these ads.
+                We may use Google AdSense to display advertisements on JetPortal. These ads are provided by Google
+                and are subject to Google's policies. JetPortal is not responsible for the content of these ads.
             </p>
 
             <h2>Security</h2>
             <ul>
-                <li><b>Authentication System:</b> PenguinMod allows users to use third-party websites to login or create accounts, such as
+                <li><b>Authentication System:</b> JetPortal allows users to use third-party websites to login or create accounts, such as
                     <a href="https://oauth2.scratch-wiki.info/">"Scratch OAuth2"</a>,
                     <a href="https://google.com/">"Google"</a>,
                     or <a href="https://github.com/">"GitHub"</a>
-                    . PenguinMod also provides it's own secure authentication system for account creation and login.</li>
-                <li><b>Vulnerabilities:</b> PenguinMod has active developers and a small set of users looking through our code to ensure proper security.</li>
+                    . JetPortal also provides it's own secure authentication system for account creation and login.</li>
+                <li><b>Vulnerabilities:</b> JetPortal has active developers and a small set of users looking through our code to ensure proper security.</li>
             </ul>
 
             <h2>Exclusion of Damages</h2>
             <p>
-                PenguinMod, its owners, administrators, and affiliates do not assume responsibility for
+                JetPortal, its owners, administrators, and affiliates do not assume responsibility for
                 any issues, damages, or consequences arising from the use of the website.
             </p>
             <p>
-                PenguinMod is not liable for any direct, indirect, incidental, consequential,
+                JetPortal is not liable for any direct, indirect, incidental, consequential,
                 or special damages, including but not limited to loss of data, revenue, or profits.
             </p>
 
             <h2>Use at Your Own Risk</h2>
             <p>
-                Despite above security measures, users must acknowledge that they are using PenguinMod at their own risk.
-                PenguinMod is not responsible for any harm, loss, or damage to users' devices, data, or any other property.
+                Despite above security measures, users must acknowledge that they are using JetPortal at their own risk.
+                JetPortal is not responsible for any harm, loss, or damage to users' devices, data, or any other property.
             </p>
 
             <h2>Warranties</h2>
             <p>
-                PenguinMod makes no warranties, express or implied, regarding the accuracy,
+                JetPortal makes no warranties, express or implied, regarding the accuracy,
                 reliability, or availability of the website or its content.
             </p>
 
             <h2>Changes to Terms</h2>
             <p>
-                PenguinMod reserves the right to update or modify these terms of service at any time. Users are
+                JetPortal reserves the right to update or modify these terms of service at any time. Users are
                 encouraged to review this document periodically for any changes.
             </p><p>
-                PenguinMod will make effort to let users know of any changes to Uploading Guidelines, Terms of Service, or Privacy Policy through
-                the website's messaging system and third-party services PenguinMod may have a precense on.
+                JetPortal will make effort to let users know of any changes to Uploading Guidelines, Terms of Service, or Privacy Policy through
+                the website's messaging system and third-party services JetPortal may have a precense on.
             </p><p>
-                By continuing to use PenguinMod, you agree to abide by the most recent version of these terms.
+                By continuing to use JetPortal, you agree to abide by the most recent version of these terms.
             </p>
 
             <h2>Contact</h2>

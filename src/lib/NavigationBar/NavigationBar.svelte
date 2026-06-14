@@ -182,7 +182,7 @@
         languageMenu.style.display = "";
         languageMenu.style.left = `4px`;
         languageMenu.style.top = `3rem`;
-        if (window._isPenguinModLauncher) {
+        if (window._isJetPortalLauncher) {
             languageMenu.style.top = "initial";
             languageMenu.style.left = `calc(5rem + 4px)`;
             languageMenu.style.bottom = "4px";
@@ -351,7 +351,7 @@
     style={isAprilFirst ? `background-color: ${randomColor} !important` : ""}
 >
     <a class="logo" href="/">
-        <img class="logo-image" src="/navicon.png" alt="PenguinMod" />
+        <img class="logo-image" src="/navicon.png" alt="JetPortal" />
     </a>
     <div style="margin-right: 12px;" />
     <div class="logo-launcher-margin" />

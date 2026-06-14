@@ -98,12 +98,12 @@
 </script>
     
 <svelte:head>
-    <title>PenguinMod - Reset Password</title>
-    <meta name="title" content="PenguinMod - Reset Password" />
-    <meta property="og:title" content="PenguinMod - Reset Password" />
-    <meta property="twitter:title" content="PenguinMod - Reset Password" />
-    <meta name="description" content="Reset your password for PenguinMod to regain access to your account with a new password" />
-    <meta property="twitter:description" content="Reset your password for PenguinMod to regain access to your account with a new password" />
+    <title>JetPortal - Reset Password</title>
+    <meta name="title" content="JetPortal - Reset Password" />
+    <meta property="og:title" content="JetPortal - Reset Password" />
+    <meta property="twitter:title" content="JetPortal - Reset Password" />
+    <meta name="description" content="Reset your password for JetPortal to regain access to your account with a new password" />
+    <meta property="twitter:description" content="Reset your password for JetPortal to regain access to your account with a new password" />
     <meta property="og:url" content="https://penguinmod.com/resetpassword">
     <meta property="twitter:url" content="https://penguinmod.com/resetpassword">
 </svelte:head>
@@ -120,7 +120,7 @@
                 alt="Profiles"
             />
         </div>
-        <h1 style="margin-block:4px">PenguinMod</h1>
+        <h1 style="margin-block:4px">JetPortal</h1>
         <p>
             <LocalizedText
                 text="Change Your Password"

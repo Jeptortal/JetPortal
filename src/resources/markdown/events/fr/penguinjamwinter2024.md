@@ -50,12 +50,12 @@ Participez si vous voulez essayer de gagner l'un de ces badges :
 Voici comment se déroulera notre PenguinJam :
 
 ### Nous dévoilerons un thème
-Vous devez créer un projet PenguinMod basé sur un thème.
+Vous devez créer un projet JetPortal basé sur un thème.
 
 Vous pouvez créer un jeu qui se rapporte au thème que nous vous donnons de quelque manière que ce soit. **Le thème doit constituer une part importante de la conception de votre jeu.
 
 ### Soumettre un projet
-Vous devez télécharger votre projet à thème sur PenguinMod **en utilisant le tag #penguinjam2 dans le titre ou les notes**.
+Vous devez télécharger votre projet à thème sur JetPortal **en utilisant le tag #penguinjam2 dans le titre ou les notes**.
 
 Assurez-vous de télécharger vos projets avant le 24 décembre à 14h00 (heure de l'Est)*** ! Ne les téléchargez pas plus tard.
 

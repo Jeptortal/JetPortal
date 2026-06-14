@@ -53,12 +53,12 @@ Participate if you want to try to earn one of these badges:
 How our PenguinJam will work is:
 
 ### We will reveal a theme
-You need to create a PenguinMod project based on a theme.
+You need to create a JetPortal project based on a theme.
 
 You can make a game that relates to the theme we give you in any way. **It should be a big part of your game's design.**
 
 ### Submit a project
-You need to upload your theme-related project to PenguinMod **using the tag #penguinjam2 in the title or notes.**
+You need to upload your theme-related project to JetPortal **using the tag #penguinjam2 in the title or notes.**
 
 Make sure to upload your projects by ***December 24th at 2:00 PM (Eastern Time)***! Do not upload them any later than that.
 

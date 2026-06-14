@@ -4,41 +4,41 @@ import { PUBLIC_STUDIO_URL } from "$env/static/public";
 
 export default {
     /**
-     * PenguinMod's normal page
+     * JetPortal's normal page
      */
     base: `${PUBLIC_STUDIO_URL}/`,
 
     /**
-     * PenguinMod's editor page
+     * JetPortal's editor page
      */
     editor: `${PUBLIC_STUDIO_URL}/editor.html`,
 
     /**
-     * PenguinMod's credits page
+     * JetPortal's credits page
      */
     credits: `${PUBLIC_STUDIO_URL}/credits.html`,
     
     /**
-     * PenguinMod's contact page
+     * JetPortal's contact page
      */
     contact: `${PUBLIC_STUDIO_URL}/contact.html`,
 
     /**
-     * PenguinMod's terms of service page
+     * JetPortal's terms of service page
      */
     terms: "/terms",
 
     /**
-     * PenguinMod's privacy policy page
+     * JetPortal's privacy policy page
      */
     privacy: "/privacy",
 
     /**
-     * PenguinMod's guideline pages for services
+     * JetPortal's guideline pages for services
      */
     guidelines: {
         /**
-         * PenguinMod's project uploading guidelines
+         * JetPortal's project uploading guidelines
          */
         projects: `${PUBLIC_STUDIO_URL}/PenguinMod-Guidelines/PROJECTS`
     },
@@ -52,32 +52,32 @@ export default {
     },
 
     /**
-     * PenguinMod's project page
+     * JetPortal's project page
      */
     projects: `${ProjectApi.OriginApiUrl}/`,
 
     /**
-     * PenguinMod's my stuff page
+     * JetPortal's my stuff page
      */
     mystuff: `${ProjectApi.OriginApiUrl}/mystuff`,
 
     /**
-     * PenguinMod's home page
+     * JetPortal's home page
      */
     home: "https://penguinmod.com/",
 
     /**
-     * PenguinMod's packager page
+     * JetPortal's packager page
      */
     packager: `${PUBLIC_STUDIO_URL}/PenguinMod-Packager/`,
 
     /**
-     * PenguinMod's unofficial wiki
+     * JetPortal's unofficial wiki
      */
     wiki: "https://wiki.penguinmod.com/wiki/Main_Page",
 
     /**
-     * PenguinMod's Discord invite
+     * JetPortal's Discord invite
      */
     discord: "https://discord.gg/NZ9MBMYTZh",
 
@@ -92,12 +92,12 @@ export default {
     turbowarp: "https://turbowarp.org",
 
     /**
-     * PenguinMod's github page
+     * JetPortal's github page
      */
     github: "https://github.com/PenguinMod/",
 
     /**
-     * PenguinMod's basic API
+     * JetPortal's basic API
      */
     basicApi: "https://penguinmod-basic-api.derpygamer2142.com/",
 

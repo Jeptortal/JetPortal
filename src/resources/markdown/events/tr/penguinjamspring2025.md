@@ -3,7 +3,7 @@
 <!-- Try not to touch the ```host or ```collab sections, they are direct user links -->
 <!-- You should translate ```warning sections though. -->
 ```host
-PenguinMod Team
+JetPortal Team
 ```
 
 Yeni bir PenguinJam’e hoş geldin! Seni yeniden aramızda görmekten mutluluk duyuyoruz.
@@ -40,7 +40,7 @@ Bu rozetlerden birini kazanmayı denemek istiyorsan katıl:
 PenguinJam’imiz şu şekilde işleyecek:
 
 ### Bir tema açıklayacağız
-Sana verilen bir temaya dayalı olarak bir PenguinMod projesi oluşturman gerekiyor.
+Sana verilen bir temaya dayalı olarak bir JetPortal projesi oluşturman gerekiyor.
 
 Temayı dilediğin şekilde yorumlayabilir ve oyunda uygulayabilirsin. **Tema, oyununun tasarımında önemli bir yer tutmalı.**
 
@@ -49,7 +49,7 @@ Tema, ***25 Nisan saat 21:00’de (Türkiye Saatiyle)*** açıklanacak.
 ***Bu temaya uymayan projeler ödül kazanamayacak.***
 
 ### Bir proje gönder
-Temayla ilgili projeni PenguinMod’a **başlıkta veya notlarda #pjamspring25 etiketiyle** yüklemen gerekiyor.
+Temayla ilgili projeni JetPortal’a **başlıkta veya notlarda #pjamspring25 etiketiyle** yüklemen gerekiyor.
 
 Projeni mutlaka ***4 Mayıs saat 21:00’e (Türkiye Saatiyle)*** kadar yükle! Bu saatten sonra yükleme yapma.
 
